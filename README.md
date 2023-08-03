@@ -5,5 +5,7 @@ This repository is designed for the Striver's SDE Sheet Challenge! It's a 2-mont
 Challenge Details:
 
 Duration: 2 months
+
 Questions: 190 selected questions
+
 Daily Commitment: 2-3 codes with comments
